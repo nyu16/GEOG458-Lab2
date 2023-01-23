@@ -8,7 +8,7 @@ URL: https://upsaeroyi.cargo.site/
 # Work Experience (only last 10 years)
 
 ## Seattle Word Cloud
-![Seattle](img/seattle wc.png)
+![Seattle](img/seattle_wc.png)
 
 ** Major: Geography - Data Science, Minor: Informatics** (2016 - 2023)
 
@@ -17,10 +17,10 @@ I was an undergrad student!
 - I took many classes **bold text**.
 
 ## Denver Word Cloud
-![Denver](img/denver wc.png)
+![Denver](img/denver_wc.png)
 
 ## Vancouver Word Cloud
-![Vancouver](img/vancouver wc.png)
+![Vancouver](img/vancouver_wc.png)
 
 
 CSV Files URLs:
